@@ -1,4 +1,4 @@
-# Cookiecutter Flask Sites
+# Cookie-Cutter Flask Sites
 
 **Flask Cookie-Cutter** is an open-source `cookiecutter` template built on top of a simple **Flask** codebase with a modern design. For newcomers, **Cookiecutter** is a command-line utility that creates projects from project templates and Django is a leading web framework built by experts using a batteries-included concept.
 
