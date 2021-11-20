@@ -1,0 +1,26 @@
+{
+    "project_name": "Flask Seed project",
+    "project_slug": "{{ cookiecutter.project_name.lower()|replace(' ', '_')|replace('-', '_')|replace('.', '_')|trim() }}",
+    "description": "A simple Flask project",
+    "author_name": "AppSeed",
+    "domain_name": "example.com",
+    "email": "{{ cookiecutter.author_name.lower()|replace(' ', '-') }}@example.com",
+    "version": "0.0.1",
+    "theme": [
+        "material-kit",
+        "pixel-lite"
+    ],
+    "database": [
+        "sqlite3",
+        "mysql",
+        "postgresql"
+    ],
+    "database_name": "appseed_flask",
+    "database_user": "appseed_user",
+    "database_pass": "Pass1234",
+    "_copy_without_render": [
+        "*.html",
+        "*.css",
+        "*.scss"
+    ]
+}
