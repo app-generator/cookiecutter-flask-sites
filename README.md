@@ -1,8 +1,8 @@
-# Cookiecutter Flask
+# Cookiecutter Flask Sites
 
 **Flask Cookie-Cutter** is an open-source `cookiecutter` template built on top of a simple **Flask** codebase with a modern design. For newcomers, **Cookiecutter** is a command-line utility that creates projects from project templates and Django is a leading web framework built by experts using a batteries-included concept.
 
-- UI Themes: `Volt Design` / `Soft UI` / `Datta Able` / `Material Dashboard`
+- UI Themes: `Pixel Lite` / `Material Kit` 
 - Generated Projects Features:
   - `Up-to-date dependencies`: **Flask 2.0.1**
   - `SCSS` -> `CSS` compilation via **Gulp**   
@@ -19,22 +19,20 @@
 - Project information: `name`, `author`, `email`
 - Database Engine: `SQLite`, `MySql` or `PostgreSql`
 - UI Themes:
-  - LIVE Preview: [Volt Bootstrap](https://flask-volt-dashboard.appseed-srv1.com/)
-  - LIVE Preview: [Soft UI](https://flask-soft-ui-dashboard.appseed-srv1.com/)
-  - LIVE Preview: [Datta Able](https://flask-datta-able.appseed-srv1.com/)
-  - LIVE Preview: [Material Dashboard](https://flask-material-dashboard.appseed-srv1.com/)
+  - LIVE Preview: [Pixel Lite](https://flask-pixel-lite.appseed-srv1.com)
+  - LIVE Preview: [Material Kit](https://flask-material-kit.appseed-srv1.com)
 
 <br />
 
 > Links
 
-- [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - index provided by AppSeed
+- [Flask Apps](https://appseed.us/apps/flask-apps) - index provided by AppSeed
 - [Open-Source Dashboards](https://appseed.us/admin-dashboards/open-source) - crafted in **Flask**, **Django**, [React](https://appseed.us/apps/react)
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 <br />
 
-![Flask Bootstrap 5 Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-volt/master/media/flask-dashboard-volt-intro.gif)
+![Flask Material Kit 2 - Starter provided by AppSeed.](https://user-images.githubusercontent.com/51070104/139474054-a223e8e0-d441-4f9f-8237-627a77bdd49c.gif)
 
 <br />
 
@@ -70,7 +68,7 @@ $ pip3 install -r requirements.txt
 > **Step #3** - Generate the project 
 
 ```bash
-$ cookiecutter https://github.com/app-generator/cookiecutter-flask.git
+$ cookiecutter https://github.com/app-generator/cookiecutter-flask-sites.git
 ```
 
 <br />
@@ -91,8 +89,8 @@ $ pip3 install appseed-shell
 
 ```python
 $ python
->>> from appseed_shell import generate_flask
->>> generate_flask()
+>>> from appseed_shell import generate_flask_sites
+>>> generate_flask_sites()
 ```
 
 <br />
