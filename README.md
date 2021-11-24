@@ -1,4 +1,4 @@
-# Cookie-Cutter Flask Sites
+# [Cookie-Cutter Flask](https://blog.appseed.us/cookie-cutter-flask-generate-website-templates/) Sites
 
 **Flask Cookie-Cutter** is an open-source `cookiecutter` template built on top of a simple **Flask** codebase with a modern design. For newcomers, **Cookiecutter** is a command-line utility that creates projects from project templates and Django is a leading web framework built by experts using a batteries-included concept.
 
@@ -105,4 +105,4 @@ For more resources and support please access:
 <br />
 
 ---
-**Flask Cookie-Cutter** - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
+**[Cookie-Cutter Flask](https://blog.appseed.us/cookie-cutter-flask-generate-website-templates/)** - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
